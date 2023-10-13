@@ -1,0 +1,504 @@
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a58bdd0c7f9e870befdd201920220d7b2ae6c95c"
+mpi = "mpich"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "beae8acada0b3af039ed72ccd3fd54322063bf5f869fc1c928d785bc40388bce"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-apple-darwin-cxx03-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "da0ed2b67052a50c36ce09bff171427f72fe922a"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "df91dff69a2c33617d7e7898194ce49cd45cd8503c816100719a9b479458fbb4"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-apple-darwin-cxx03-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f30845716381353cf5b304a6e2ba78a8705046c1"
+mpi = "openmpi"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "791009d4ab543a079b46344fc28ff7998c55faad028f946be8ecfe29951b0446"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-apple-darwin-cxx03-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ca09bd0891d60452693619a812d534a3ec21aad"
+mpi = "mpich"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "36b6654f1981109af3c510a9827bf8ceb2c54f69174a557993d29f594dcbe798"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-apple-darwin-cxx11-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ec9759fcf0f79c9ab173ae5fd9189679bb6604f"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "e648157938d2c842173e94f63669ebb9a180e5542a8c5964c4c04c858d5eeeea"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-apple-darwin-cxx11-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b96c43bbf8506089c8f4efb6c4dd505a06ae8cf0"
+mpi = "openmpi"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "99f73b0200fda26232ee65ee3ea4b9d6d94f9c84385cb6dc116dec9b23e65257"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-apple-darwin-cxx11-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3fcdea1773624b7572cca64b7337a51fcfab548c"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "5e229c1b87e086fbba6a0da8185041a8e965fad3c3745cfd95eae9f868f14bd1"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8749dc54aeed9d55faa4b31f61a5b434344b71e1"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "c9699809bcd49f6ac9dc7fc0db8d82f5019dc05d28c7c5875ec43b24d77df95b"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "929c2582181b6da3e0ee76812940a294033244d8"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "8b1598653840092f7666b1b8d96fac51064057a9c35595f2209316a73cd332f7"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5eb09258dcfbc3da6479c179c71419f94148e938"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "4eabe51fe4b25634a012ab83bb2889ea34eb926908f2456ffaf8376ad242af23"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f45fd73b483af23d230822a7b1cfff78dd41d49b"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "d94a9d21e2f09bafec928dddfeb622fbe7dc1595137eee190e761b020ecd433a"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "364e96b16c48f473085db64c737bf21d1ea45b59"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "c995a7847f0095b10a8f86e7ee1d3566874965380be082c7c084cf14462df6d1"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5438932a4a20dfc10b4de5e6c114ba9338cd4501"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "922796df9f1ffb52e8defa3f797e7812ed21908375aad63c1e289fb38fcd0024"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8a76bd5c479ff5fe3ab4a0cb4327f9983829de5d"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "9d21765683fe37926d4e04b3c13b0c2963d76d11380ab67dc15fb22a7d237434"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01ad57cf07d4c2e804ac5fcaf56dfc53e57b9d6d"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "bc05f589a2e90e1c5e203313d41da7ad93b7bd0cc20caa30bef4930965ca02ab"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "33cac88f0d38ef37b172b4f86a7527831f8a1a4e"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "8e932f80946880318579e9f97a62191f8c838564735864a4ddb1c4a7ca4fdaf4"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ab25e631a77c5113f74e99f47f986e929fb751e0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "3c1b6197320b09e02b6eaaf7b621f615cd661e68759320380c629f1183b92eac"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "244117e3f5bf484df8a5f1f259267ea657d61129"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "c4ead7c00c4729fee3a9fa694d4bab16ccf6f88b844bd2d65bdbc3bb64d2a24d"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc6e8c1b75dd512d6efdacacd98a5adacb8ceb9d"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "a6fb75d0cd3edd1e4ac7e3246c4e685a28c5e36b3c162a64c565c9f04e779a43"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac65f7a89d732b531b890c7b92d85e4336cf6890"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "ed6744860cf616b961a4d94a379020ea35ac734116f1b91eab98eae545eee0bb"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "af7ffe4e0784b40cc44c8c4c3df3c25ee3456e99"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "a3de1501ca18f709ba7c55a1581b256701ffb72f16a64ad24bbc0adee64a7b33"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b49b3fda21c54392a8f1e09c1343c9d902f66f9d"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "ace651fdb032eb726058ce40a8ba3de34dee44a4385c0f0f78d1bbfd88109c3e"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "39f59ed6eaf30ebcb99aa076aaee751e70e257f0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "c0ee5406cc1f94625795362677fdac3612d79896c827d875d61428345dcc51d4"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61fba303168736e523dcadc22451aeda716305c7"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "e8c04d23e711042c95520b77fe434baca748ab12438b12177685e01d718f1f12"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2f1d57599eeba297a22d594280771d7591d5a5ab"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "b61ef11f3996068c0926d8a9a959412d066c516c9094e0e4f92d44200d2489c5"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c9ffe182ba02831e65a2b638a9163412d146159a"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "246c15db56fae1dc97d0e3fd037e530be343e0745deff59f31d5dea41f40f7a7"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "02219bd348f36fa7b264617f7811ecb17b9f196f"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "c4ca49fb75c7c326cadc98d7ec15d784f55a659e11f48665108bcc21a2f56deb"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e20d37bd3f2da327160b832a3e8c97587f58a465"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "4f230a6f1c5527ac24eda145b968402d4269effdb5d31f831b63f62523761c7a"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48c96fca587987c1e3419194225a41cb5cb476f3"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "5f9134c6ef39881ec1ba98c5b16edb6d12289a6eda9b183a0331b25b05642690"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94fc2e7d182c1ab69f44ee40b632f1a53ac96017"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "c7cb5be527b282c0f8d98822e0c3d0cdc694ef64b4790e5ea380ae710a8a186b"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e56a1ed61c7b7ed76566118cf3357489c6924f6a"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "698e2d1d47b9b2a1146974f618360385b5bc2731acb5c3c5e81f22b92ab6760d"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b40f0410d14e36eec27b11581b1de7a95f191de"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "0e97994fee2aea799ca1af046e6dbb2e849526cc7b536672133bbcb07fe5af69"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "800b13c7fe3a96fc585411706f74356aaf8afb21"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "5f7e0080da3c6c371083d605605449cfbd6aeb296d5e578c29faac792a1b131a"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c8c351d74b9e5eddf32b972d73da66da9bd0259"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "e9968593da60fe1fa450bb0461d36878c82adcf5c3a7376c4d3cd6a57935f9f8"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b2e088fbe49424d85fa68349516f959fb8850c37"
+mpi = "mpich"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "db86ef7c22760bb46cce8afd3d9ba168ff86164f05b027267082d772c9415449"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-apple-darwin-cxx03-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7eba4f7d8f30347fdeeae6125f2827ab020bc999"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "0515aa6a85f189473465dad07f1ee4db16b7e16673c89c818c4eeda3f0fd1440"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-apple-darwin-cxx03-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "babff84046f43880e2dff7c355c47b56e673fad0"
+mpi = "openmpi"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "6f9bdcf14adfac5665ede4a62f904d5b2e94ec02a446ceddc4edb00dee4dbfe7"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-apple-darwin-cxx03-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e7a5f9ee292baedb1e49b45bfbc74fb7aef67097"
+mpi = "mpich"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "b4dd82247ef53c39c478e1ac49c14b88358f3a39ddc8a35107a0a0198f704575"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-apple-darwin-cxx11-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6dd5015f64dd71b0c1b4968077ac9c92b07079f3"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "4255a3d3fefbd49714b885293ba10fa92dd7a7f454d4b6b89d741b709f9e49e9"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-apple-darwin-cxx11-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "997d4386dac85330e45b762ef1e5a7650bb00f7b"
+mpi = "openmpi"
+os = "macos"
+
+    [[CombBLAS.download]]
+    sha256 = "80e114fd779b360381b8f9e174e7bc78827f89c1229336bcb5dadba5392eab79"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-apple-darwin-cxx11-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30be0eaf2d95ace33aa0c8a8eab47a7382b6dfed"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "b35046cd010790cdf0bb7d55416fc377c8bf416c60f5c8c3bebaf57ebdd143c9"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2de9d2a91a6d9bcb745bb0e2da88ad8de9449e7a"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "bb3c0e2e393ac1300153a19cdf00d1e01d3d92ff3b6733755ce206589ef186ae"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1dafde7ceeb6899065aa0840a7328a564be6d7af"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "badb9d6cb05b7c5eb647dad05ec9a42ca63cd32219751f31292d931cd4d8fc46"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aec75157097e7d15ce943ad18e900666404b7e95"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "fab9da48c8be3cfb1c61f660f2ee0faeb407f4f8d05d4106735b2b5465018976"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f9c9f852bba3a4e57f14a09ca343a1caa83c971"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "62dbe7d9377630de81a6751c8c37bfa194afbedbfdb26ea30f00a7f23be67e1a"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[CombBLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2cac8a03465977773794a5de3760db34d352756d"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CombBLAS.download]]
+    sha256 = "cb36fa807882bc5cec19be9447264b8814bafb780610d1025d5ba6aaebd00888"
+    url = "https://github.com/JuliaBinaryWrappers/CombBLAS_jll.jl/releases/download/CombBLAS-v2.0.0+0/CombBLAS.v2.0.0.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
